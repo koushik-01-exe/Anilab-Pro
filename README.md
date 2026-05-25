@@ -2,26 +2,34 @@
 
 <img src="assets/banner.svg" alt="AniLab Pro Banner" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <img src="assets/IMG_20260525_214607.png" alt="AniLab Pro Logo" width="110" style="border-radius: 20px"/>
 
 <br/><br/>
 
+<!-- DOWNLOAD BUTTON -->
 <a href="https://github.com/koushik-01-exe/Anilab-Pro/releases/download/Anilab/Anilab_Pro_v3_Mod.apk">
-  <img src="https://img.shields.io/badge/⬇️%20Download%20APK-Click%20Here-1e90ff?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+  <img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20APK-FF4757?style=for-the-badge&logo=android&logoColor=white&labelColor=black" width="350"/>
 </a>
 
 <br/><br/>
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-BankaiMods-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/BankaiMods)
-[![Telegram Members](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/BankaiMods&style=flat-square&logo=telegram&logoColor=white&label=Members&color=26A5E4)](https://t.me/BankaiMods)
+<!-- TELEGRAM JOIN BUTTON (no live count) -->
+<a href="https://t.me/BankaiMods">
+  <img src="https://img.shields.io/badge/Join%20@BankaiMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
-<br/>
+<br/><br/>
 
-[![Downloads](https://img.shields.io/github/downloads/koushik-01-exe/Anilab-Pro/total?style=flat-square&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757)](https://github.com/koushik-01-exe/Anilab-Pro/releases/latest)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=koushik-01-exe.Anilab-Pro&style=flat-square&color=2ed573&label=Repo%20Visitors)](https://github.com/koushik-01-exe/Anilab-Pro)
-[![GitHub Release](https://img.shields.io/github/v/release/koushik-01-exe/Anilab-Pro?style=flat-square&logo=github&color=0d47a1&label=Latest)](https://github.com/koushik-01-exe/Anilab-Pro/releases/latest)
+<!-- STATS BADGES -->
+<img src="https://img.shields.io/github/downloads/koushik-01-exe/Anilab-Pro/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757" alt="Downloads"/>
+&nbsp;
+<img src="https://visitor-badge.laobi.icu/badge?page_id=koushik-01-exe.Anilab-Pro&style=for-the-badge&color=2ed573&label=Repo%20Visitors" alt="Visitors"/>
+&nbsp;
+<img src="https://img.shields.io/github/v/release/koushik-01-exe/Anilab-Pro?style=for-the-badge&logo=github&color=0d47a1&label=Latest" alt="Release"/>
+
+<br/><br/>
 
 </div>
 
@@ -29,7 +37,7 @@
 
 ## ✅ Mod Features
 
-| Feature | Status |
+| 🔥 Feature | Status |
 |---|---|
 | 🚫 Ads Removed | ✔️ |
 | 🛡️ Trackers Disabled | ✔️ |
@@ -45,9 +53,11 @@
 ## 📸 Screenshots
 
 <div align="center">
-<img src="assets/IMG_20260525_222015.jpg" width="45%"/>
-&nbsp;&nbsp;
-<img src="assets/IMG_20260525_222002.jpg" width="45%"/>
+
+| Home | Player |
+|:---:|:---:|
+| <img src="assets/IMG_20260525_222015.jpg" width="90%"/> | <img src="assets/IMG_20260525_222002.jpg" width="90%"/> |
+
 </div>
 
 <img src="assets/wave.svg" width="100%"/>
