@@ -50,7 +50,7 @@
 
 ---
 
-## ⚠️ Installation Guide
+## 🛠️ Installation Guide
 
 1. Download the APK from the button above
 2. Enable **"Install from Unknown Sources"** in settings
