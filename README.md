@@ -1,37 +1,39 @@
 <div align="center">
 
+<!-- Banner -->
 <img src="assets/banner.svg" alt="AniLab Pro Banner" width="100%"/>
 
 <br/><br/>
 
+<!-- Logo -->
 <img src="assets/IMG_20260525_214607.png" alt="AniLab Pro Logo" width="110" style="border-radius: 20px"/>
 
 <br/><br/>
 
-<!-- DOWNLOAD BUTTON -->
+<!-- DOWNLOAD BUTTON – large, eye‑catching -->
 <a href="https://github.com/koushik-01-exe/Anilab-Pro/releases/download/Anilab/Anilab_Pro_v3_Mod.apk">
-  <img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20APK-FF4757?style=for-the-badge&logo=android&logoColor=white&labelColor=black" width="350"/>
+  <img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20APK-FF4757?style=for-the-badge&logo=android&logoColor=white&labelColor=black" width="360"/>
 </a>
 
 <br/><br/>
 
-<!-- TELEGRAM JOIN BUTTON (no live count) -->
+<!-- TELEGRAM JOIN BUTTON – slightly smaller, clean -->
 <a href="https://t.me/BankaiMods">
-  <img src="https://img.shields.io/badge/Join%20@BankaiMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Join%20@BankaiMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="260"/>
 </a>
 
 <br/><br/>
 
-<!-- STATS BADGES -->
-<img src="https://img.shields.io/github/downloads/koushik-01-exe/Anilab-Pro/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757" alt="Downloads"/>
+<!-- STATS ROW – all badges same height, evenly spaced -->
+<img src="https://img.shields.io/github/downloads/koushik-01-exe/Anilab-Pro/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757" width="200" alt="Downloads"/>
 &nbsp;
-<img src="https://visitor-badge.laobi.icu/badge?page_id=koushik-01-exe.Anilab-Pro&style=for-the-badge&color=2ed573&label=Repo%20Visitors" alt="Visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=koushik-01-exe.Anilab-Pro&style=for-the-badge&color=2ed573&label=Repo%20Visitors" width="200" alt="Visitors"/>
 &nbsp;
-<img src="https://img.shields.io/github/v/release/koushik-01-exe/Anilab-Pro?style=for-the-badge&logo=github&color=0d47a1&label=Latest" alt="Release"/>
-
-<br/><br/>
+<img src="https://img.shields.io/github/v/release/koushik-01-exe/Anilab-Pro?style=for-the-badge&logo=github&color=0d47a1&label=Latest" width="200" alt="Release"/>
 
 </div>
+
+<br/>
 
 <img src="assets/wave.svg" width="100%"/>
 
