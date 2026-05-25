@@ -8,14 +8,13 @@
 
 <br/><br/>
 
-<!-- Download APK – smaller width -->
 <a href="https://github.com/koushik-01-exe/Anilab-Pro/releases/download/Anilab/Anilab_Pro_v3_Mod.apk">
-  <img src="https://img.shields.io/badge/Download%20APK-FF4757?style=for-the-badge&logo=android&logoColor=white&labelColor=black" width="200" alt="Download APK"/>
+  <img src="https://img.shields.io/badge/Download%20APK-FF4757?style=for-the-badge&logo=android&logoColor=white&labelColor=2c3e50" width="200" alt="Download APK"/>
 </a>
 
 <br/>
 
-<!-- Telegram join – same width as download -->
+<!-- Telegram join -->
 <a href="https://t.me/BankaiMods">
   <img src="https://img.shields.io/badge/Join%20@BankaiMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="200" alt="Telegram"/>
 </a>
@@ -66,12 +65,11 @@
 
 <img src="assets/wave.svg" width="100%"/>
 
-## ⚠️ Installation Guide
+## 🛠️ Installation Guide
 
 1. Download the APK from the button above
-2. Enable **"Install from Unknown Sources"** in settings
-3. Install the APK
-4. Open app & enjoy smooth anime streaming! ✨
+2. Install the APK
+3. Open app & enjoy smooth anime streaming! ✨
 
 <img src="assets/wave.svg" width="100%"/>
 
