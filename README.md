@@ -8,26 +8,32 @@
 
 <br/><br/>
 
-<!-- Download button – natural size, no emoji -->
+<!-- Download button -->
 <a href="https://github.com/koushik-01-exe/Anilab-Pro/releases/download/Anilab/Anilab_Pro_v3_Mod.apk">
-  <img src="https://img.shields.io/badge/Download%20APK-FF4757?style=for-the-badge&logo=android&logoColor=white&labelColor=black" alt="Download APK"/>
+  <img src="https://img.shields.io/badge/Download%20APK-FF4757?style=for-the-badge&logo=android&logoColor=white&labelColor=black" width="280" alt="Download APK"/>
 </a>
 
 <br/><br/>
 
-<!-- Telegram join button – same style, no emoji -->
+<!-- Telegram join button – same width -->
 <a href="https://t.me/BankaiMods">
-  <img src="https://img.shields.io/badge/Join%20@BankaiMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Join%20@BankaiMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="280" alt="Telegram"/>
 </a>
 
 <br/><br/>
 
-<!-- Stats badges – all same height, default widths -->
-<img src="https://img.shields.io/github/downloads/koushik-01-exe/Anilab-Pro/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757" alt="Downloads"/>
-&nbsp;
-<img src="https://visitor-badge.laobi.icu/badge?page_id=koushik-01-exe.Anilab-Pro&style=for-the-badge&color=2ed573&label=Repo%20Visitors" alt="Visitors"/>
-&nbsp;
-<img src="https://img.shields.io/github/v/release/koushik-01-exe/Anilab-Pro?style=for-the-badge&logo=github&color=0d47a1&label=Latest" alt="Release"/>
+<!-- Stats box with outline -->
+<table border="1" bordercolor="#26A5E4" cellpadding="10" style="border-collapse:collapse; margin-left:auto; margin-right:auto;">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/downloads/koushik-01-exe/Anilab-Pro/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=FF4757" alt="Downloads"/>
+      &nbsp;
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=koushik-01-exe.Anilab-Pro&style=for-the-badge&color=2ed573&label=Repo%20Visitors" alt="Visitors"/>
+      &nbsp;
+      <img src="https://img.shields.io/github/v/release/koushik-01-exe/Anilab-Pro?style=for-the-badge&logo=github&color=0d47a1&label=Latest" alt="Release"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
