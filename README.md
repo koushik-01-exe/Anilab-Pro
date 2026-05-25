@@ -2,7 +2,7 @@
 
 <img src="assets/IMG_20260525_214607.png" alt="AniLab Pro Logo" width="120" style="border-radius: 20px"/>
 
-# 🎌 AniLab Pro Mod
+# 🎌 AniLab Pro
 
 **Ads Removed • Trackers Disabled • Optimized Performance • Free**
 
