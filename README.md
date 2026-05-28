@@ -75,8 +75,6 @@
 
 <div align="center">
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://t.me/BankaiMods)
-
 <sub>Modded with ❤️ by <a href="https://github.com/koushik-01-exe">koushik-01-exe</a> • <a href="https://t.me/BankaiMods">@BankaiMods</a></sub>
 
 </div>
